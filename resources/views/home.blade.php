@@ -2,7 +2,6 @@
 
 @section('content')
 <div class="container">
-    <h1 class="mb-4">Tabellone Treni</h1>
     <table class="table table-dark table-striped text-center train-board-table">
         <thead>
             <tr>
